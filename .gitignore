@@ -1,0 +1,22 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+.env
+.venv
+env/
+venv/
+
+# output parcellations (don't accidentally commit large NIfTI outputs)
+*_parcellation.nii.gz
+
+# scratch / IDE
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# never commit the local licence key
+license.txt
