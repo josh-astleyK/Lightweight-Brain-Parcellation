@@ -98,13 +98,16 @@ Architecture code is in `models/architecture.py`.
 
 ## Citation
 
+If you use these models, please cite:
+
 ```bibtex
-@inproceedings{anonymous2026lightweight,
-  title     = {Lightweight Whole-Brain Parcellation with UMamba},
-  author    = {Anonymous},
-  booktitle = {Anonymous},
+@inproceedings{astley2026rapid,
+  title     = {Rapid Whole-Brain Parcellation},
+  author    = {Astley, Joshua R. and Rodionov, Roman and Primidis, Thomas and Singh, Pushpendra and Li, Kuo and Duncan, John S. and Sparks, Rachel},
+  booktitle = {Medical Image Computing and Computer Assisted Intervention -- MICCAI 2026 Satellite Events, Workshop on Machine Learning in Clinical Neuroimaging (MLCN)},
+  publisher = {Springer Nature Switzerland},
   year      = {2026},
-  note      = {Manuscript under review}
+  note      = {In press; DOI to be added}
 }
 ```
 
